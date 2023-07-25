@@ -1,0 +1,10 @@
+* cl-textmagic
+
+Common lisp implementation of TextMagic API to send SMS
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/trumae/cl-textmagic.git   |
+| commit  | ecf1ebe  |
+| systems | cl-textmagic |
+|---------+-------------------------------------------|
+
